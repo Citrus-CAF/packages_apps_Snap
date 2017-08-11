@@ -27,7 +27,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.android.camera.util.CameraUtil;
-import org.omnirom.snap.R;
+import org.codeaurora.snapcam.R;
 
 public class RotateTextToast {
     private static final int LONG_DELAY = 3500;

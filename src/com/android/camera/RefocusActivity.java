@@ -65,7 +65,7 @@ import android.widget.FrameLayout;
 import com.android.camera.exif.ExifInterface;
 
 import com.android.camera.util.CameraUtil;
-import org.omnirom.snap.R;
+import org.codeaurora.snapcam.R;
 
 public class RefocusActivity extends Activity {
     private static final String TAG = "RefocusActivity";

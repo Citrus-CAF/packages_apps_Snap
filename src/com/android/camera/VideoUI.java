@@ -18,7 +18,7 @@ package com.android.camera;
 
 import java.util.List;
 
-import org.omnirom.snap.R;
+import org.codeaurora.snapcam.R;
 
 import android.content.res.Configuration;
 import android.graphics.Bitmap;

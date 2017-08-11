@@ -19,7 +19,7 @@ package com.android.camera;
 import android.content.Context;
 import android.util.AttributeSet;
 
-import org.omnirom.snap.R;
+import org.codeaurora.snapcam.R;
 
 public class CountDownTimerPreference extends IconListPreference {
     private static final int[] DURATIONS = {

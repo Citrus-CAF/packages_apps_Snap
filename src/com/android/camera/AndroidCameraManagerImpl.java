@@ -48,7 +48,7 @@ import com.android.camera.util.ApiHelper;
 import android.os.ConditionVariable;
 import java.lang.reflect.Method;
 
-import org.omnirom.snap.R;
+import org.codeaurora.snapcam.R;
 
 /**
  * A class to implement {@link CameraManager} of the Android camera framework.

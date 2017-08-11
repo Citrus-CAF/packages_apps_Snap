@@ -56,7 +56,7 @@ import java.nio.ByteBuffer;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.Semaphore;
-import org.omnirom.snap.R;
+import org.codeaurora.snapcam.R;
 
 public class FrameProcessor {
 
